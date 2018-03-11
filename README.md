@@ -16,3 +16,7 @@
 2.2 比较 普通 / Momentum / Adam 梯度下降
 
 2.3 tensorflow的使用 以及 识别手势的一个softmax回归
+
+4.1 numpy实现卷积和池化(前向传递+后向传递) 没建model
+
+​	tensorflow 卷积神经网络 识别手势 (答案和期望输出有点差距)
