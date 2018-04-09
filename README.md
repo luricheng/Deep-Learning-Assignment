@@ -1,4 +1,4 @@
-# Deep-Learning-Assignment
+#< Deep-Learning-Assignment
 
 ## <a href = "https://mooc.study.163.com/smartSpec/detail/1001319001.htm">吴恩达的深度学习课程</a>作业
 
@@ -57,3 +57,8 @@
 
 - numpy实现卷积和池化(前向传递+后向传递) 没建model
 - tensorflow 卷积神经网络 识别手势 (答案和期望输出有点差距)
+
+#### 第二周
+
+- Keras教程 + Keras实现的Happy House
+- Keras实现ResNet
