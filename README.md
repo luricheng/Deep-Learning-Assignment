@@ -55,4 +55,5 @@
 
 #### 第三周
 
-- YOLO算法 实现自动驾驶的汽车检测 
+- YOLO算法 实现自动驾驶的汽车检测 (<a href="https://pan.baidu.com/s/1nZpMmDigBpXYUae4rI9GeA">yolo.h5预训练数据下载</a>)
+
