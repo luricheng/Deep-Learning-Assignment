@@ -50,4 +50,9 @@
 #### 第二周
 
 - Keras教程 + Keras实现的Happy House
+
 - Keras实现ResNet
+
+#### 第三周
+
+- YOLO算法 实现自动驾驶的汽车检测 
